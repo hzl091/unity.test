@@ -2,3 +2,4 @@ E:\mytest\unity.test\unity.test.domain\bin\Debug\unity.test.domain.dll
 E:\mytest\unity.test\unity.test.domain\bin\Debug\unity.test.domain.pdb
 E:\mytest\unity.test\unity.test.domain\obj\Debug\unity.test.domain.dll
 E:\mytest\unity.test\unity.test.domain\obj\Debug\unity.test.domain.pdb
+E:\mytest\unity.test\unity.test.domain\obj\Debug\unity.test.domain.csprojResolveAssemblyReference.cache

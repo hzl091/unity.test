@@ -1,0 +1,14 @@
+E:\mytest\unity.test\unity.test.framework\bin\Debug\unity.test.framework.dll
+E:\mytest\unity.test\unity.test.framework\bin\Debug\unity.test.framework.pdb
+E:\mytest\unity.test\unity.test.framework\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\mytest\unity.test\unity.test.framework\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+E:\mytest\unity.test\unity.test.framework\bin\Debug\Microsoft.Practices.Unity.dll
+E:\mytest\unity.test\unity.test.framework\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+E:\mytest\unity.test\unity.test.framework\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\mytest\unity.test\unity.test.framework\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+E:\mytest\unity.test\unity.test.framework\bin\Debug\Microsoft.Practices.Unity.xml
+E:\mytest\unity.test\unity.test.framework\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+E:\mytest\unity.test\unity.test.framework\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+E:\mytest\unity.test\unity.test.framework\obj\Debug\unity.test.framework.dll
+E:\mytest\unity.test\unity.test.framework\obj\Debug\unity.test.framework.pdb
+E:\mytest\unity.test\unity.test.framework\obj\Debug\unity.test.framework.csprojResolveAssemblyReference.cache

@@ -161,6 +161,10 @@
       <Project>{2bf357e4-a897-48c7-a7be-b1633659cbd8}</Project>
       <Name>unity.test.domain</Name>
     </ProjectReference>
+    <ProjectReference Include="..\unity.test.framework\unity.test.framework.csproj">
+      <Project>{f853ae15-3aee-4f22-bde1-c6ca9a5afbb4}</Project>
+      <Name>unity.test.framework</Name>
+    </ProjectReference>
     <ProjectReference Include="..\unity.test.idal\unity.test.idal.csproj">
       <Project>{fde379c7-53fa-44aa-840d-fd06bb0780a3}</Project>
       <Name>unity.test.idal</Name>

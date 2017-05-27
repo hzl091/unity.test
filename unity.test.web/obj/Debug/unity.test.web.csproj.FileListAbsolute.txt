@@ -56,3 +56,5 @@ E:\mytest\unity.test\unity.test.web\obj\Debug\unity.test.web.csprojResolveAssemb
 E:\mytest\unity.test\unity.test.web\obj\Debug\unity.test.web.dll
 E:\mytest\unity.test\unity.test.web\obj\Debug\unity.test.web.pdb
 E:\mytest\unity.test\unity.test.web\bin\Unity.config
+E:\mytest\unity.test\unity.test.web\bin\unity.test.framework.dll
+E:\mytest\unity.test\unity.test.web\bin\unity.test.framework.pdb

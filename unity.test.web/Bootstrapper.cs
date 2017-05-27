@@ -5,6 +5,7 @@ using Microsoft.Practices.Unity.Configuration;
 using unity.test.iservice;
 using Unity.Mvc4;
 using System.Web;
+using unity.test.framework.DIContainer;
 
 namespace unity.test.web
 {
@@ -21,6 +22,7 @@ namespace unity.test.web
       section.Configure(container, "unityTest");
 
       DependencyResolver.SetResolver(new UnityDependencyResolver(container));
+      Engine.Init(container);
       return container;
     }
 
