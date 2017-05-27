@@ -1,0 +1,11 @@
+E:\mytest\unity.test\unity.test.service\bin\Debug\unity.test.service.dll
+E:\mytest\unity.test\unity.test.service\bin\Debug\unity.test.service.pdb
+E:\mytest\unity.test\unity.test.service\bin\Debug\unity.test.domain.dll
+E:\mytest\unity.test\unity.test.service\bin\Debug\unity.test.idal.dll
+E:\mytest\unity.test\unity.test.service\bin\Debug\unity.test.iservice.dll
+E:\mytest\unity.test\unity.test.service\bin\Debug\unity.test.domain.pdb
+E:\mytest\unity.test\unity.test.service\bin\Debug\unity.test.idal.pdb
+E:\mytest\unity.test\unity.test.service\bin\Debug\unity.test.iservice.pdb
+E:\mytest\unity.test\unity.test.service\obj\Debug\unity.test.service.csprojResolveAssemblyReference.cache
+E:\mytest\unity.test\unity.test.service\obj\Debug\unity.test.service.dll
+E:\mytest\unity.test\unity.test.service\obj\Debug\unity.test.service.pdb
